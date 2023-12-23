@@ -2,7 +2,7 @@
 
 
 
-## TECHNOS (je les connais pas trop désolé...)
+## TECHNOS (je les connais pas trop désolé enfin un peu mais pas beaucoup, ça dépend de l'échelle du taff de Alexis Migniau, selon lui je suis autonom sur rien à part html et css donc bon prenez le comme vous voulez...)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,php,nodejs,mysql,mongodb,git,github,gitlab)](https://skillicons.dev)
 
 <!--
