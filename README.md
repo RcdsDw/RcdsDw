@@ -3,7 +3,7 @@
 
 
 ## TECHNOS
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,php,nodejs,mysql,mongodb,git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git,github)](https://skillicons.dev)
 
 <!--
 **RcdsDw/RcdsDw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
