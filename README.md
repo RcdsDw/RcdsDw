@@ -1,5 +1,10 @@
 ### Salut 👋
 
+
+
+## TECHNOS
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,php,node,symfony,c,go&perline=3)](https://skillicons.dev)
+
 <!--
 **RcdsDw/RcdsDw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alexismigniau&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=alexismigniau&show_icons=true" />
-</picture>
