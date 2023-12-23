@@ -2,7 +2,7 @@
 
 
 
-## TECHNOS
+## TECHNOS (je les connais pas trop désolé...)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,php,nodejs,mysql,mongodb,git,github,gitlab)](https://skillicons.dev)
 
 <!--
