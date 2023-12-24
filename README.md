@@ -3,7 +3,9 @@
 ## TECHNOS
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,nodejs,git)](https://skillicons.dev)
 
-```
+## A PROPOS DE MOI
+
+```go
 package main
 
 import (
