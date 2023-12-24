@@ -1,21 +1,22 @@
-### Salut 👋
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7C81A&random=false&width=435&lines=D%C3%A9veloppeur+en+Alternance)](https://git.io/typing-svg)
 
 ## TECHNOS
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,nodejs,git)](https://skillicons.dev)
 
-<!--
-**RcdsDw/RcdsDw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+package main
 
-Here are some ideas to get you started:
+import (
+    "fmt"
+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func main() {
+    prenom := "Rafael"
+    nom := "Candido Da Silva"
+    age := 24
+    poste := "Développeur en Alternance"
+    entreprise := "Keematic"
+
+    fmt.Printf("Bonjour à toi, je m'appelle %s %s et j'ai %d ans.\n Je suis actuellement %s chez %s.", prenom, nom, age, poste, entreprise)
+}
+```
