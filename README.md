@@ -19,6 +19,7 @@ func main() {
     poste := "Développeur en Alternance"
     entreprise := "Keematic"
 
-    fmt.Printf("Bonjour, je m'appelle %s %s et j'ai %d ans.\n Je suis actuellement %s chez %s.", prenom, nom, age, poste, entreprise)
+    fmt.Printf("Bonjour à toi, je m'appelle %s %s et j'ai %d ans.\n"+
+    "Je suis actuellement %s chez %s.", prenom, nom, age, poste, entreprise)
 }
 ```
