@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7C81A&random=false&width=435&lines=D%C3%A9veloppeur+en+Alternance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7C81A&random=false&width=435&lines=D%C3%A9veloppeur+Web+Junior+en+Alternance)](https://git.io/typing-svg)
 
 ## TECHNOS
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,nodejs,git)](https://skillicons.dev)
