@@ -25,5 +25,7 @@ func main() {
 }
 ```
 
-[![Mon CV](https://img.shields.io/badge/Mon%20CV-jaune?style=for-the-badge)](cv.pdf)
+<a href="cv.pdf" download>
+  <img src="https://img.shields.io/badge/Mon%20CV-jaune?style=for-the-badge" alt="Mon CV">
+</a>
 
