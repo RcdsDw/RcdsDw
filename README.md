@@ -25,4 +25,5 @@ func main() {
 }
 ```
 
-[![Mon CV](https://img.shields.io/badge/Mon%20CV?style=social&logoColor=yellow)](lien-vers-ton-CV)
+[![Mon CV](https://img.shields.io/badge/Mon%20CV-jaune?style=for-the-badge)](lien-vers-ton-CV)
+
