@@ -25,6 +25,6 @@ func main() {
 }
 ```
 
-[![Mon CV](https://img.shields.io/badge/Mon%20CV-jaune?style=for-the-badge&labelColor=yellow&color=yellow&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMTYwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc=&labelColor=yellow&color=yellow&logoColor=black&logoWidth=20&logoHeight=20)](cv.pdf)
+[![Mon CV](https://img.shields.io/badge/Mon%20CV-jaune?style=for-the-badge&color=yellow)](cv.pdf)
 
 
