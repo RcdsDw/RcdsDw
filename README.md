@@ -2,7 +2,7 @@
 
 
 ## TECHNOS
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,php,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,php,golang,symfony,nodejs,git)](https://skillicons.dev)
 
 ## A PROPOS DE MOI
 
