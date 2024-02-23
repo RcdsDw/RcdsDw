@@ -24,3 +24,5 @@ func main() {
     "Je suis actuellement %s chez %s.", prenom, nom, age, poste, entreprise)
 }
 ```
+
+[![Mon CV](https://img.shields.io/badge/T%C3%A9l%C3%A9chargez%20mon%20CV-3D%20Stylis%C3%A9-brightgreen?style=for-the-badge)](lien-vers-ton-CV)
