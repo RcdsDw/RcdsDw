@@ -25,4 +25,4 @@ func main() {
 }
 ```
 
-[![Mon CV](https://img.shields.io/badge/T%C3%A9l%C3%A9chargez%20mon%20CV-3D%20Stylis%C3%A9-brightgreen?style=for-the-badge)](lien-vers-ton-CV)
+[![Mon CV](https://img.shields.io/badge/Mon%20CV?style=social&logoColor=yellow)](lien-vers-ton-CV)
